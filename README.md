@@ -1,7 +1,6 @@
 **Data structure Programs**
 
-
-1) **Stimulate a Printer Queue in Busy Office :**
+1)**Stimulate a Printer Queue in Busy Office :**
 
 _Problem Statement:_
 You are designing a system to stimulate a printer queue in a Busy office.Users can submit print jobs of varying lengths and the printer can only handle one job at a time.Implement a data structure using either a stack or a queue to mange the print jobs efficiently.How wuld you ensure that shorter print jobs are prioritized over longer ones while maintaining fairness in the queue?
